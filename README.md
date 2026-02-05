@@ -31,6 +31,14 @@ Security research should be:
 
 ---
 
-If you find my research valuable, consider donating so I can continue maintaining these projects and providing future projects. 
+## 🤝 Support & Collaboration
+
+If you use my projects in real-world environments, please consider donating to support continued maintenance and future research.
+
+If you find my work helpful, please consider donating.
+
+If you're working on an open-source project, you can **schedule a free source code review consultation**.
+
+---
 
 Building a safer digital world through open security research
